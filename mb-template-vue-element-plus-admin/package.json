@@ -3,7 +3,9 @@
   "version": "2.5.4",
   "description": "一套基于vue3、element-plus、typesScript、vite4的后台集成方案。",
   "author": "",
-  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "i": "pnpm install",
     "dev": "pnpm vite --mode base",
@@ -123,13 +125,5 @@
     "node": ">=18.0.0",
     "pnpm": ">=8.1.0"
   },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kailong321200875/vue-element-plus-admin.git"
-  },
-  "bugs": {
-    "url": "https://github.com/kailong321200875/vue-element-plus-admin/issues"
-  },
-  "homepage": "https://github.com/kailong321200875/vue-element-plus-admin"
+  "license": "MIT"
 }
