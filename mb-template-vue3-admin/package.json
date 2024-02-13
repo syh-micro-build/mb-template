@@ -1,0 +1,15 @@
+{
+  "name": "@mb-cli/mb-template-vue3-admin",
+  "version": "2.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shanyi<shanyi.hui@qq.com>",
+  "license": "ISC"
+}
